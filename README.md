@@ -1,2 +1,2 @@
 # CARTOONFLIX
-Recriando a interface da NETIFLIX
+Recriando a interface da NETFLIX
